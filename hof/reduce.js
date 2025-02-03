@@ -1,0 +1,1 @@
+// Reduce will return only single value
